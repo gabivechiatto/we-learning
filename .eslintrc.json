@@ -23,12 +23,12 @@
         "semi": ["error", "always"],
         "quotes": ["error", "double"],
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
-       "react/function-component-definition": "off",
-       "react/react-in-jsx-scope": "off",
-       "import/prefer-default-export": "off",
-       "react/jsx-props-no-spreading": "off",
-       "import/no-unresolved": "off",
-       "import/extensions": "off",
-       "arrow-parens":"off"
+        "react/function-component-definition": "off",
+        "react/react-in-jsx-scope": "off",
+        "import/prefer-default-export": "off",
+        "react/jsx-props-no-spreading": "off",
+        "import/no-unresolved": "off",
+        "import/extensions": "off",
+        "arrow-parens":"off"
     }
 }
